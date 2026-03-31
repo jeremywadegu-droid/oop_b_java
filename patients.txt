@@ -1,0 +1,3 @@
+John Doe,23,Flu
+Mary Jane,30,Malaria
+Kevin Smith,45,Diabetes
