@@ -1,1 +1,1 @@
-Updated Hospital class to use ArrayList and HashMap collections
+Stores saved doctors.
